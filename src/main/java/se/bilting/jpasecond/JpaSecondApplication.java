@@ -10,7 +10,7 @@ public class JpaSecondApplication {
         SpringApplication.run(JpaSecondApplication.class, args);
 
 //        System.out.println();
-//        System.out.println("   Jesus Christ is the Lord God Almighty    ");
+//        System.out.println("   Jesus Christ is the Lord God Almighty    "); // Jesus Christ is the Lord God Almighty
 //        System.out.println();
     }
 
